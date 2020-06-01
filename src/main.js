@@ -5,8 +5,6 @@ import App from './App'
 import router from './router'
 import axios from 'axios'
 import store from './store'
-import viewPort from '../static/js/viewport'
-import 'amfe-flexible/index.js'
 
 // viewPort()
 import '../static/css/reset.css'

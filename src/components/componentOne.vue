@@ -29,9 +29,9 @@ export default {
         let ch = document.body.clientHeight
         let el = document.getElementsByClassName('run_up')[0]
         if(ch>800) {           
-            el.style.marginTop = "14.5rem"
+            el.style.marginTop = "19.3333rem"
         }else {
-            el.style.marginTop = "12rem"
+            el.style.marginTop = "16rem"
         }
     }
 }
@@ -43,15 +43,15 @@ export default {
                 background-size:100% 100%;
                 -moz-background-size:100% 100%;
         p{
-            font-size:.32rem;
+            font-size:0.4267rem;
             color:#666;
             text-align: center;
-            line-height: .48rem;
+            line-height: 0.64rem;
         }
         .run_up {
             position: relative;
-            width: .6rem;
-            margin: 14rem 0 0 3.3rem;
+            width: 0.8rem;
+            margin: 18.6667rem 0 0 4.4rem;
             animation:heart 1s ease infinite;
         }
 

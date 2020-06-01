@@ -78,13 +78,13 @@ export default {
         background-size:cover;
           //关与我们
         .div_title{
-            margin: .8rem 0 .58rem .39rem;           
-            height: .52rem;
+            margin: 1.0667rem 0 0.7733rem 0.52rem;           
+            height: 0.6933rem;
             
         }
         //蓝色方块
         .blue {
-            width: 0.15rem;
+            width: 0.2rem;
             height: 100%;
             background-color: #0078FF
         }
@@ -93,83 +93,83 @@ export default {
             float: left;
         }
          .div_title h1{
-            font-size:.56rem;
+            font-size:0.7467rem;
             font-family:FZLanTingHeiS-B-GB;
             font-weight:800;
             color:rgba(0,120,255,1);
-            margin-left: .16rem;
+            margin-left: 0.2133rem;
            
         }
       
         .item1 {
-            width: 6.5rem;
-            height: 3.78rem;
-            margin-left: .4rem;
+            width: 8.6667rem;
+            height: 5.04rem;
+            margin-left: 0.5333rem;
                     
             }
         .item1  h1,.item2  h1 {
 
-                font-size: .4rem;
+                font-size: 0.5333rem;
                 font-family:FZLanTingHeiS-B-GB;
                 font-weight:600;
-                margin-bottom: .26rem;
+                margin-bottom: 0.3467rem;
             }
         .item1  span,.item2  span {
-                width: 3.48rem;
-                font-size: .32rem;
-                line-height: .46rem;
+                width: 4.64rem;
+                font-size: 0.4267rem;
+                line-height: 0.6133rem;
             }
         .item_img2 {
             float: right;
-            width: 2.77rem;
-            height: 3.78rem;
+            width: 3.6933rem;
+            height: 5.04rem;
             }
         .item_img1 {
             
-            width: 3.5rem;
-            height: 1.72rem;
-            margin-top: .04rem;
+            width: 4.6667rem;
+            height: 2.2933rem;
+            margin-top: 0.0533rem;
             }
         // 下半部分
         .item2 {
-            width: 6.46rem;
-            height: 5.92rem;
-            margin: .4rem;
-            border : #D7DBE1 dashed .02rem
+            width: 8.6133rem;
+            height: 7.8933rem;
+            margin: 0.5333rem;
+            border : #D7DBE1 dashed 0.0267rem
         }
         .div1 {
-            margin-left: -.02rem;
-            margin-top: -.02rem;
-            height: 2.96rem;
+            margin-left: -0.0267rem;
+            margin-top: -0.0267rem;
+            height: 3.9467rem;
         }
         .div2 {
-            margin-left: 3.25rem;
-            width: 2.8rem;
-            height: 2.7rem;
-            padding: .23rem 0 0 .4rem;
+            margin-left: 4.3333rem;
+            width: 3.7333rem;
+            height: 3.6rem;
+            padding: 0.3067rem 0 0 0.5333rem;
         }
         
         .div3 {
-            padding: .23rem .2rem 0 .29rem;
-            width: 2.8rem;
-            height: 2.92rem;
+            padding: 0.3067rem 0.2667rem 0 0.3867rem;
+            width: 3.7333rem;
+            height: 3.8933rem;
         }
         .div1,.div4 {
             float: left;
-            width: 3.25rem;
+            width: 4.3333rem;
             img {
                 width: 100%;
             }
         }
         .div4 {
             position: absolute;
-            margin-top: -3.15rem;
-            margin-left: 3.23rem;
+            margin-top: -4.2rem;
+            margin-left: 4.3067rem;
         }
         .item2 h1{
-            width: 6.2rem;
-            line-height: .4rem;
-            margin-bottom: .27rem;
+            width: 8.2667rem;
+            line-height: 0.5333rem;
+            margin-bottom: 0.36rem;
         }
         
 

@@ -109,12 +109,12 @@ export default {
         overflow: hidden;
         background-size:cover;
          .div_title{
-            margin: .8rem .4rem;           
-            height: .52rem;
+            margin: 1.0667rem 0.5333rem;           
+            height: 0.6933rem;
         }
         //蓝色方块
         .blue {
-            width: 0.15rem;
+            width: 0.2rem;
             height: 100%;
             background-color: #0078FF
         }
@@ -122,122 +122,122 @@ export default {
             float: left;
         }
         h1{
-            font-size:.56rem;
+            font-size:0.7467rem;
             font-family:FZLanTingHeiS-B-GB;
             font-weight:800;
             color:rgba(0,120,255,1);
-            margin-left: .16rem;           
+            margin-left: 0.2133rem;           
         }
          .h2 {
             clear: both;
             width: 80%;
-            line-height: .55rem;
+            line-height: 0.7333rem;
             margin-left: 0rem;
-            padding-top: .58rem;
-            font-size:.40rem;
+            padding-top: 0.7733rem;
+            font-size:0.5333rem;
             font-family:FZLanTingHeiS-B-GB;
             font-weight:700;
             color:rgba(30,30,30,1);
         }
         .ipad {
-            margin-top: .2rem;
+            margin-top: 0.2667rem;
             float: left;
-            width: 4rem;
+            width: 5.3333rem;
             img{
                 width: 100%;
             }
         }
         .ocpc{
-            margin-top: .2rem;
+            margin-top: 0.2667rem;
             img{
-                margin-left: .05rem;
-                width: 1.55rem;
+                margin-left: 0.0667rem;
+                width: 2.0667rem;
             }
             ul li{    
-                font-size: .32rem;
-                line-height: .6rem;
+                font-size: 0.4267rem;
+                line-height: 0.8rem;
                 font-family:FZLanTingHeiS-R-GB;
                 font-weight:400;
                 color:rgba(86,86,86,1);
-                margin-top: .08rem;
+                margin-top: 0.1067rem;
                 
             }
             ul li::before{
             content: "○ "; 
             color: rgba(0,120,255,1);
-            font-size: .1rem;
+            font-size: 0.1333rem;
             vertical-align:middle; 
             }
             
-            margin-left: 4.3rem;
+            margin-left: 5.7333rem;
         }
          .xu {
                 clear: both;
-                margin-top: 4.5rem;
+                margin-top: 6rem;
                 margin-left: auto;
                 margin-right: auto;
                 width: 90%;
-                border-top:.04rem dashed rgba(30,30,30,1);
+                border-top:0.0533rem dashed rgba(30,30,30,1);
                 opacity:0.1;
             }
         .txt {
             clear: both;
-            margin:.49rem auto;
-            height: 1.22rem;
-            margin-left: .40rem;
+            margin:0.6533rem auto;
+            height: 1.6267rem;
+            margin-left: 0.5333rem;
             
         }
         .black_txt {
             float: left;
-            width: 3.86rem;
-            height: 1.21rem;
-            font-size: .32rem;
+            width: 5.1467rem;
+            height: 1.6133rem;
+            font-size: 0.4267rem;
             font-weight: 400;
-            line-height:.46rem;
+            line-height:0.6133rem;
             span{
                 font-weight: 600;
             }
         }
         .blue_txt {
             float: left;
-            width: 2.29rem;
-            height: 1.18rem;
-            margin-left: .27rem;
-            border: rgba(0,120,255,1) dashed .01rem;      
+            width: 3.0533rem;
+            height: 1.5733rem;
+            margin-left: 0.36rem;
+            border: rgba(0,120,255,1) dashed 0.0133rem;      
         }
         .blue_txt h1{
-            font-size:.32rem;
+            font-size:0.4267rem;
             font-family:FZLanTingHeiS-R-GB;
             font-weight:bold;
             color:rgba(0,120,255,1);
-            line-height:.57rem;
-            margin-top: .59rem;
-            margin-left: .49rem;
+            line-height:0.76rem;
+            margin-top: 0.7867rem;
+            margin-left: 0.6533rem;
         }
         
     }
     .blue_txt .span{
             float: left;
-            font-size:.46rem;
+            font-size:0.6133rem;
             font-family:FZLanTingHeiS-B-GB;
             font-weight:400;
             color:rgba(0,120,255,1);
-            line-height:.35rem;
-            margin-top: .19rem;
-            margin-left: .62rem;
+            line-height:0.4667rem;
+            margin-top: 0.2533rem;
+            margin-left: 0.8267rem;
         }
      .blue_txt h2{
-        font-size:.46rem;
+        font-size:0.6133rem;
         font-family:FZLanTingHeiS-B-GB;
         font-weight:400;
         color:rgba(0,120,255,1);
-        line-height:.49rem;
-        padding-left: .49rem;
-        padding-top: .11rem;   
+        line-height:0.6533rem;
+        padding-left: 0.6533rem;
+        padding-top: 0.1467rem;   
 
      }
      .blue_txt h2:last-child {
-         padding-left: .72rem;
+         padding-left: 0.96rem;
      }
     
  

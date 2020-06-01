@@ -67,14 +67,14 @@ export default {
         text-align: center;
         width: 100%;
           .div_title{
-            margin-left: .4rem;
-            margin-top: .8rem;         
-            height: .52rem;
+            margin-left: 0.5333rem;
+            margin-top: 1.0667rem;         
+            height: 0.6933rem;
         }   
     }
       //蓝色方块
         .blue {
-            width: 0.15rem;
+            width: 0.2rem;
             height: 100%;
             background-color: #0078FF
         }
@@ -82,33 +82,33 @@ export default {
             float: left;
         }
         .div_title h1{
-            font-size:.56rem;
+            font-size:0.7467rem;
             font-family:FZLanTingHeiS-B-GB;
             font-weight:800;
             color:rgba(0,120,255,1);
-            margin-left: .16rem;           
+            margin-left: 0.2133rem;           
         }
          .h2 {
             clear: both;
-            width: 4.98rem;
-            line-height: .55rem;
-            margin-left: .4rem;
-            margin-top: .58rem;
-            font-size:.40rem;
+            width: 6.64rem;
+            line-height: 0.7333rem;
+            margin-left: 0.5333rem;
+            margin-top: 0.7733rem;
+            font-size:0.5333rem;
             font-family:FZLanTingHeiS-B-GB;
             font-weight:700;
             text-align: left;
             color:rgba(30,30,30,1);
         }
         .cpc {
-            width: 2.63rem;
-            height: .6rem;
-            margin-top: .29rem;
-            margin-left: .4rem;
-            border: rgba(0,120,255,1) dashed .02rem;
+            width: 3.5067rem;
+            height: 0.8rem;
+            margin-top: 0.3867rem;
+            margin-left: 0.5333rem;
+            border: rgba(0,120,255,1) dashed 0.0267rem;
             h1{
-                margin: .14rem .26rem;
-                font-size:.32rem;
+                margin: 0.1867rem 0.3467rem;
+                font-size:0.4267rem;
                 font-family:FZLanTingHeiS-R-GB;
                 font-weight:bold;
                 color:rgba(0,120,255,1);
@@ -117,70 +117,70 @@ export default {
         .xuline,.line2,.line3,.line4 {             
             position: absolute;
             margin-top: 0rem;
-            height: .54rem;
-            margin-left:  .67rem;
-            border-left: #0078FF dashed .02rem;          
+            height: 0.72rem;
+            margin-left:  0.8933rem;
+            border-left: #0078FF dashed 0.0267rem;          
         }
         .line2 {
-            margin-top: .76rem;
-            height: 1.7rem;
+            margin-top: 1.0133rem;
+            height: 2.2667rem;
         }
          .line3 {
-            margin-top: 2.62rem;
-            height: 1.66rem;
+            margin-top: 3.4933rem;
+            height: 2.2133rem;
         }
         .line4 {
-            margin-top: 4.54rem;
-            height: 1.7rem;
+            margin-top: 6.0533rem;
+            height: 2.2667rem;
         }
         .point,.point2,.point3 {
              position: absolute;
-            margin-top: .54rem;
-            width: .22rem;
-            height: .22rem;
-            margin-left:  .57rem;
+            margin-top: 0.72rem;
+            width: 0.2933rem;
+            height: 0.2933rem;
+            margin-left:  0.76rem;
             img{
                 width: 100%;
             }
         }
         .point2 {
-             margin-top: 2.42rem;
+             margin-top: 3.2267rem;
         }
         .point3 {
-             margin-top: 4.28rem;
+             margin-top: 5.7067rem;
         }
         .dmp {
             float: left;
-            margin-top: .4rem;
-            margin-left: 1.04rem;
+            margin-top: 0.5333rem;
+            margin-left: 1.3867rem;
             li{
                 text-align: left;
-                font-size:.32rem;
+                font-size:0.4267rem;
                 font-family:FZLanTingHeiS-B-GB;
                 font-weight:400;
                 color:rgba(0,120,255,1);
-                line-height:.54rem;
-                margin-bottom: .42rem;
+                line-height:0.72rem;
+                margin-bottom: 0.56rem;
             }
             h1{
-                font-size:.32rem;
+                font-size:0.4267rem;
                 font-family:FZLanTingHeiS-R-GB;
                 font-weight:400;
                 color:rgba(30,30,30,1);
-                width: 5.8rem;
-                line-height:.46rem;
+                width: 7.7333rem;
+                line-height:0.6133rem;
             }
         }
         .bottom {
             position: absolute;
-            margin-left: .4rem;
-            margin-top: 6.26rem;
-            width: 6.4rem;
-            height: 2.6rem;
-            border: rgba(0,120,255,1) dashed .02rem;
+            margin-left: 0.5333rem;
+            margin-top: 8.3467rem;
+            width: 8.5333rem;
+            height: 3.4667rem;
+            border: rgba(0,120,255,1) dashed 0.0267rem;
             img {
-                width: 6.27rem;
-                margin: .06rem;
+                width: 8.36rem;
+                margin: 0.08rem;
             }
         }
         .delay-1 {animation-delay: 0.5s;}

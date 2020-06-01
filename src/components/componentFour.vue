@@ -71,12 +71,7 @@ export default {
         .img{
             width:100%;
         }
-        p{
-            font-size:.32rem;
-            color:#666;
-            text-align: center;
-            line-height: .48rem;
-        }
+      
         .delay-1 {animation-delay: 0.5s;}
         .delay-2 {animation-delay: 0.9s;}
         .delay-3 {animation-delay: 1.3s;}

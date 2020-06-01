@@ -97,13 +97,13 @@ export default {
         background-size:cover;
           //流量红利释放
         .div_title{
-            margin: .8rem .39rem;           
-            height: .52rem;
+            margin: 1.0667rem 0.52rem;           
+            height: 0.6933rem;
             
         }
         //蓝色方块
         .blue {
-            width: 0.15rem;
+            width: 0.2rem;
             height: 100%;
             background-color: #0078FF
         }
@@ -112,47 +112,47 @@ export default {
             float: left;
         }
          h1{
-            font-size:.56rem;
+            font-size:0.7467rem;
             font-family:FZLanTingHeiS-B-GB;
             font-weight:800;
             color:rgba(0,120,255,1);
-            margin-left: .16rem;
+            margin-left: 0.2133rem;
            
         }
         .h2 {
             clear: both;
             margin-left: 0rem;
-            padding-top: .58rem;
-            font-size:.40rem;
+            padding-top: 0.7733rem;
+            font-size:0.5333rem;
             font-family:FZLanTingHeiS-B-GB;
             font-weight:700;
             color:rgba(30,30,30,1);
         }
         .h2_2 {
-            padding-top: .11rem;
+            padding-top: 0.1467rem;
         }
         h3 {
-            font-size:.25rem;
+            font-size:0.3333rem;
             font-family:FZLanTingHeiS-R-GB;
             font-weight:400;
-            margin-left: .3rem;
+            margin-left: 0.4rem;
         }
         h3 span {
-            font-size:.33rem;
+            font-size:0.44rem;
             font-family:FZLanTingHeiS-R-GB;
             font-weight:bold;
             color:rgba(0,120,255,1);
-            line-height:.56rem;
+            line-height:0.7467rem;
         }
         .title {
-            width: 4.03rem;
-            height: .623rem;
-            margin-top: 1.9rem;
-            margin-left:  .39rem;
-            border: #0078FF dashed .02rem;
+            width: 5.3733rem;
+            height: 0.8307rem;
+            margin-top: 2.5333rem;
+            margin-left:  0.52rem;
+            border: #0078FF dashed 0.0267rem;
             h1 {
-                margin: .15rem .3rem;
-                font-size:.33rem;
+                margin: 0.2rem 0.4rem;
+                font-size:0.44rem;
                 font-family:FZLanTingHeiS-R-GB;
                 font-weight:bold;
                 color:rgba(0,120,255,1);
@@ -161,43 +161,43 @@ export default {
         .line,.line2,.line3,.line4 {
             position: absolute;
             margin-top: 0rem;
-            height: 2rem;
-            margin-left:  1.85rem;
-            border-left: #0078FF dashed .02rem;
+            height: 2.6667rem;
+            margin-left:  2.4667rem;
+            border-left: #0078FF dashed 0.0267rem;
         }
         .line2{
-            margin-top: 2rem;
+            margin-top: 2.6667rem;
         }
         .line3{
-            margin-top: 4rem;
+            margin-top: 5.3333rem;
         }
         .line4{
-            margin-top: 6rem;
+            margin-top: 8rem;
         }
           .div_img{
             float: left;
             width:98%;
-            margin-top: .2rem;           
+            margin-top: 0.2667rem;           
         }
         .div_img .left {           
-                margin-top: .39rem;
-                margin-left: .41rem;
-                font-size:.27rem;
+                margin-top: 0.52rem;
+                margin-left: 0.5467rem;
+                font-size:0.36rem;
                 font-family:Microsoft YaHei;
                 font-weight:400;
         }
          img{
                 position: relative;
-                width: .8rem;
-                margin-left:  .22rem;
-                margin-top: .1rem;
+                width: 1.0667rem;
+                margin-left:  0.2933rem;
+                margin-top: 0.1333rem;
          }
-         .div_img .time2{margin-left:  .68rem;}
-         .div_img .time3{margin-left:  .68rem;}
-         .div_img .time4{margin-left:  .68rem;}
-         .div_img .time5{margin-left:  .53rem;}
-         .div_img .time6{margin-left:  .53rem;}
-         .div_img .time7{margin-left:  .53rem;}
+         .div_img .time2{margin-left:  0.9067rem;}
+         .div_img .time3{margin-left:  0.9067rem;}
+         .div_img .time4{margin-left:  0.9067rem;}
+         .div_img .time5{margin-left:  0.7067rem;}
+         .div_img .time6{margin-left:  0.7067rem;}
+         .div_img .time7{margin-left:  0.7067rem;}
  
         .delay-1 {animation-delay: 0.5s;}
         .delay-2 {animation-delay: 0.9s;}

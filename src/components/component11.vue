@@ -117,13 +117,13 @@ export default {
         background-size:cover;
           //关与我们
         .div_title{
-            margin: .8rem 0 .21rem .39rem;           
-            height: .52rem;
+            margin: 1.0667rem 0 0.28rem 0.52rem;           
+            height: 0.6933rem;
             
         }
         //蓝色方块
         .blue {
-            width: 0.15rem;
+            width: 0.2rem;
             height: 100%;
             background-color: #0078FF
         }
@@ -132,24 +132,24 @@ export default {
             float: left;
         }
         .div_title h1{
-            font-size:.56rem;
+            font-size:0.7467rem;
             font-family:FZLanTingHeiS-B-GB;
             font-weight:800;
             color:rgba(0,120,255,1);
-            margin-left: .16rem;
+            margin-left: 0.2133rem;
            
         }
         .inp {
-            margin-top: .2rem;
-            margin-left: .4rem;
-            width: 5.41rem;
-            height: .71rem;
+            margin-top: 0.2667rem;
+            margin-left: 0.5333rem;
+            width: 7.2133rem;
+            height: 0.9467rem;
 
         }
         h2 {
-            margin-left: .4rem;
-            margin-top: .42rem;
-            font-size:.42rem;
+            margin-left: 0.5333rem;
+            margin-top: 0.56rem;
+            font-size:0.56rem;
             font-family:FZLanTingHeiS-R-GB;
             font-weight:bold;
             color:rgba(30,30,30,1);
@@ -158,26 +158,26 @@ export default {
         .button {
             background-color: #0078FF;
             color: white;
-            font-size:.50rem;
-            width: 3.06rem;
-            height: .71rem;
+            font-size:0.6667rem;
+            width: 4.08rem;
+            height: 0.9467rem;
             font-family:FZLanTingHeiS-R-GB;
             font-weight:bold;
             text-align: center;
-            line-height: .71rem;
-            margin: .38rem 0 0 .4rem;
+            line-height: 0.9467rem;
+            margin: 0.5067rem 0 0 0.5333rem;
         }
         h3 {
-            font-size:.36rem;
+            font-size:0.48rem;
             font-family:FZLanTingHeiS-R-GB;
             font-weight:600;
             color:rgba(0,0,0,1);
-            margin: .26rem 0 0 .4rem;
+            margin: 0.3467rem 0 0 0.5333rem;
         }
         #allmap {
-            height: 4.11rem;
+            height: 5.48rem;
             width:89%;
-            margin: .5rem 0 0 .4rem;
+            margin: 0.6667rem 0 0 0.5333rem;
             overflow: hidden;}
 
       

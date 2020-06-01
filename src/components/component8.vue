@@ -9,7 +9,7 @@
         <h1 class="inline"><span>50%</span>总消耗提升</h1>
         <h1 class="inline"><span>50%</span>新增成本稳定保持</h1>
     </div>
-    <div class="blue_CTR inline"><h1 class="left inline">CTR:3%-5%</h1><h1 class="inline">拉活成本达标</h1></div>
+    <div class="blue_CTR blue_CTR1 inline"><h1 class="left inline">CTR:3%-5%</h1><h1 class="inline">拉活成本达标</h1></div>
     <div class="txt inline"><b>移动直播：</b>游戏直播巨头，考核当月新增和沉默用户唤起。商店拉新为主，信息流DMP拉活为辅搭配投放，合理分配投放时段和资源位预算，
     以精彩游戏、人气主播等大图素材投放为主，整体后端成本达标</div>
     <div class="dash"></div>
@@ -75,17 +75,25 @@ export default {
         if(cwth<=320){
               let arr = document.getElementsByClassName('blue_CTR')
               for(let i=0;i<3;i++) {
-                  arr[i].style.marginTop= "0.05rem"
-                  arr[i].style.width = "4.6rem"
+                  arr[i].style.marginTop= "-.04rem"
+                  arr[i].style.width = "6.1333rem"
               }
               
             
                        
         }
-        if(cht<800) {
+        if(cht<800 && cht>600) {
             
             let arr = document.getElementsByClassName('blue_CTR3')[0]            
-            arr.style.top= "1.3rem"
+            arr.style.top= "1.76rem"
+            arr = document.getElementsByClassName('b53')[0]            
+            arr.style.top= "1.76rem"
+            arr = document.getElementsByClassName('blue_CTR2')[0]            
+            arr.style.top= "1.06rem"
+            arr = document.getElementsByClassName('b52')[0]            
+            arr.style.top= "1.14rem"
+            arr = document.getElementsByClassName('blue_CTR1')[0]            
+            arr.style.top= "0rem"
             
         }
     }
@@ -99,134 +107,137 @@ export default {
         text-align: center;
         width: 100%;
           .div_title{
-            margin-left: .4rem;
-            margin-top: .8rem;         
-            height: .52rem;
+            margin-left: 0.5333rem;
+            margin-top: 1.0667rem;         
+            height: 0.6933rem;
         }   
     }
       //蓝色方块
         .blue {
-            width: 0.15rem;
+            width: 0.2rem;
             height: 100%;
             background-color: #0078FF
         }
         .div_title h1{
-            font-size:.56rem;
+            font-size:0.7467rem;
             font-family:FZLanTingHeiS-B-GB;
             font-weight:800;
             color:rgba(0,120,255,1);
-            margin-left: .16rem;           
+            margin-left: 0.2133rem;           
         }
         .inline {
             float: left;
         }
         .img {
-            margin-left: .4rem;
-            width: 3.28rem;
-            height: 1.65rem;
+            margin-left: 0.5333rem;
+            width: 4.3733rem;
+            height: 2.2rem;
             position:absolute;
-            top: 1.91rem;
+            top: 2.5467rem;
                 img{
                     width: 100%;
                 }
             }
         .img2 {
-            top: 5.6rem;
+            top: 7.4667rem;
         }
         .img3 {
-            top: 8.95rem;
+            top: 11.9333rem;
         }
         .xu {
             position:absolute;
-            left: 3.68rem;
-            top: 2.03rem;
-            width: 1.8rem;
-            height: .15rem;
+            left: 4.9067rem;
+            top: 2.7067rem;
+            width: 2.4rem;
+            height: 0.2rem;
             border-top: rgba(0,120,255,1) dashed .02rem;
             border-right: rgba(0,120,255,1) dashed .02rem;
         }
         .xu2 {
-            top: 5.72rem;
+            top: 7.6267rem;
         }
         .xu3 {
-            top: 9.07rem;
+            top: 12.0933rem;
         }
         .b50 {    
             position: relative;
             background-color: #0078FF;    
-            margin-left: 3.99rem;
-            margin-top: .82rem;
-            font-size:.22rem;
+            margin-left: 5.32rem;
+            margin-top: 1.0933rem;
+            font-size:0.2933rem;
             font-family:FZLanTingHeiS-R-GB;
             font-weight:400;
             color:rgba(0,120,255,1);
-            line-height:.46rem;
+            line-height:0.6133rem;
              span {
-                    font-size:.41rem;
+                    font-size:0.5467rem;
                     font-family:FZLanTingHeiS-B-GB;
                     font-weight:400;
                     color:rgba(0,120,255,1);
                 }          
            }
         .b52,.blue_CTR2 {
-            top: .8rem;
+            top: 1.2667rem;
         }
          .b53,.blue_CTR3 {
-            top: 1.26rem;
+            top: 1.98rem;
+        }
+        .blue_CTR1 {
+            top: .12rem;
         }
         //蓝色长条
         .blue_CTR {
                 position: relative;
-                height: .388rem;
-                width: 4.3rem;
-                margin-left: 2.48rem;
+                height: 0.5173rem;
+                width: 5.7333rem;
+                margin-left: 3.3067rem;
                 background-color: #0078FF;
-                font-size:.26rem;
+                font-size:0.3467rem;
                 font-family:FZLanTingHeiS-R-GB;
                 font-weight:400;
                 color:rgba(255,255,255,1);
-                line-height:.398rem;
+                line-height:0.5307rem;
                 h1 {
                     text-align: center;
-                    margin-left: .16rem;
+                    margin-left: 0.2133rem;
                 }
                .left {
-                   margin-left: 0.1rem;
-                   width: 2.12rem;                 
-                   border-right: white dashed .02rem;
+                   margin-left: 0.1333rem;
+                   width: 2.8267rem;                 
+                   border-right: white dashed 0.0267rem;
 
                }
             }
         .txt {
             position: relative;
-            margin: 0.2rem 0 0 .4rem;
-            width: 6.4rem;
-            height: 1.26rem;
+            margin: 0.2667rem 0 0 0.5333rem;
+            width: 8.5333rem;
+            height: 1.68rem;
             text-align: left;
-            font-size:.24rem;
+            font-size:0.32rem;
             font-family:FZLanTingHeiS-R-GB;
             font-weight:400;
             color:rgba(0,0,0,1);
-            line-height:.34rem;
+            line-height:0.4533rem;
             b {
                 font-weight:600;
             }
         }
         .txt2  {
-            top: .82rem;
+            top: 1.0933rem;
         }
         .txt3  {
-            top: 1.3rem;
+            top: 1.7333rem;
         }
         .dash {
             position:absolute;
-            top: 5.26rem;
-            width: 6.64rem;
-            margin-left: .28rem;
-            border-top: black dashed .04rem;
+            top: 7.0133rem;
+            width: 8.8533rem;
+            margin-left: 0.3733rem;
+            border-top: black dashed 0.0533rem;
             opacity:0.1;
         }
         .dash2 {
-            top: 8.62rem;
+            top: 11.4933rem;
         }
 </style>

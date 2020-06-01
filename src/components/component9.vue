@@ -82,83 +82,83 @@ export default {
         
         width: 100%;
           .div_title{
-            margin-left: .4rem;
-            margin-top: .8rem;         
-            height: .52rem;
+            margin-left: 0.5333rem;
+            margin-top: 1.0667rem;         
+            height: 0.6933rem;
         }   
     }
       //蓝色方块
         .blue {
-            width: 0.15rem;
+            width: 0.2rem;
             height: 100%;
             background-color: #0078FF
         }
         .div_title h1{
-            font-size:.56rem;
+            font-size:0.7467rem;
             font-family:FZLanTingHeiS-B-GB;
             font-weight:800;
             color:rgba(0,120,255,1);
-            margin-left: .16rem;           
+            margin-left: 0.2133rem;           
         }
         .inline {
             float: left;
         }
         .blue_long {
            
-            height: .55rem;
-            width: 6.4rem;
-            margin-left: .4rem;
-            margin-top: .59rem;
+            height: 0.7333rem;
+            width: 8.5333rem;
+            margin-left: 0.5333rem;
+            margin-top: 0.7867rem;
             background-color: #0078FF;
-            font-size:.36rem;
+            font-size:0.48rem;
             font-family:FZLanTingHeiS-R-GB;
             font-weight:400;
             color:rgba(255,255,255,1);
             h1 {
                 text-align: center;
-                margin-left: .2rem;
-                margin-top: .11rem;
+                margin-left: 0.2667rem;
+                margin-top: 0.1467rem;
             }
             .left {
                 margin-left: 0rem;               
-                width: 3.12rem;                 
-                border-right: white dashed .02rem;
+                width: 4.16rem;                 
+                border-right: white dashed 0.0267rem;
 
             }
         }
         .blue_long2 {
-            margin-top: .3rem;
+            margin-top: 0.4rem;
         }
 
         .content{
-            width: 6.4rem;
-            height: 2.8rem;
-            margin: .2rem 0 0 .4rem;
+            width: 8.5333rem;
+            height: 3.7333rem;
+            margin: 0.2667rem 0 0 0.5333rem;
             img {
                 float: left;
-                width: 2.49rem;
-                margin: 0 .13rem 0.06rem 0;
+                width: 3.32rem;
+                margin: 0 0.1733rem 0.08rem 0;
             }
             b {
                 font-weight:600;
             }
             span {
-                font-size:.24rem;
+                font-size:0.32rem;
                 font-family:FZLanTingHeiS-R-GB;
                 font-weight:400;
                 color:rgba(0,0,0,1);
-                line-height:.34rem;
+                line-height:0.4533rem;
                 
             }
         }
         .content2 {
-            height: 2.19rem;
+            height: 2.92rem;
         }
          .dash {           
-            margin-top: .28rem;
-            width: 6.64rem;
-            margin-left: .28rem;
-            border-top: black dashed .04rem;
+            margin-top: 0.3733rem;
+            width: 8.8533rem;
+            margin-left: 0.3733rem;
+            border-top: black dashed 0.0533rem;
             opacity:0.1;
         }
         

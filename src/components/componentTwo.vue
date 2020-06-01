@@ -56,12 +56,12 @@ export default {
 
           //推广痛点
         .div_title{
-            margin: .8rem .4rem;           
-            height: .52rem;
+            margin: 1.0667rem 0.5333rem;           
+            height: 0.6933rem;
         }
         //蓝色方块
         .blue {
-            width: 0.15rem;
+            width: 0.2rem;
             height: 100%;
             background-color: #0078FF
         }
@@ -69,63 +69,63 @@ export default {
             float: left;
         }
         h1{
-            font-size:.56rem;
+            font-size:0.7467rem;
             font-family:FZLanTingHeiS-B-GB;
             font-weight:800;
             color:rgba(0,120,255,1);
-            margin-left: .16rem;
+            margin-left: 0.2133rem;
            
         }
         .h2 {
             clear: both;
             margin-left: 0rem;
-            padding: .58rem 0rem;
-            font-size:.40rem;
+            padding: 0.7733rem 0rem;
+            font-size:0.5333rem;
             font-family:FZLanTingHeiS-B-GB;
             font-weight:700;
             color:rgba(30,30,30,1);
         }
         .h3,.h5{
-            margin-top: 1.7rem;
-            margin-left:  .39rem;
+            margin-top: 2.2667rem;
+            margin-left:  0.52rem;
             width: 90%;
-            font-size:.32rem;
+            font-size:0.4267rem;
             font-family:FZLanTingHeiS-R-GB;
             font-weight:400;
             color:rgba(30,30,30,1);
-            line-height:.46rem;
+            line-height:0.6133rem;
             span {
                 color:rgba(0,120,255,1);
             }
         }
         .h4 {
-            margin: .39rem .39rem;
-            padding: .58rem ,4rem;
-             font-size:.40rem;
+            margin: 0.52rem 0.52rem;
+            padding: 0.7733rem ,5.3333rem;
+             font-size:0.5333rem;
             font-family:FZLanTingHeiS-B-GB;
             font-weight:700;
             color:rgba(30,30,30,1);
         }
         .h5 {
-            margin-top: .39rem;
+            margin-top: 0.52rem;
         }
         .xu {
-            margin-top: .39rem;
+            margin-top: 0.52rem;
             margin-left: auto;
             margin-right: auto;
             width: 90%;
 
-            border-top:.04rem dashed rgba(30,30,30,1);
+            border-top:0.0533rem dashed rgba(30,30,30,1);
             opacity:0.1;
         }
         .xudiv {
-            width: 6.4rem;
-            height: 4.55rem;
-            margin: .38rem auto;
-            border: rgba(0,120,255,1) dashed .02rem;
+            width: 8.5333rem;
+            height: 6.0667rem;
+            margin: 0.5067rem auto;
+            border: rgba(0,120,255,1) dashed 0.0267rem;
             img{
-                width: 6.26rem;
-                margin: .08rem .07rem;
+                width: 8.3467rem;
+                margin: 0.1067rem 0.0933rem;
             }
         }
     }
