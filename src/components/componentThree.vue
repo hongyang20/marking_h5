@@ -12,38 +12,37 @@
          <div class="line4 delay-5" :class="{animated:addAnimation, fadeIn:addAnimation, slower :addAnimation}"></div>
 
         <div class="div_img delay-1" :class="{animated:addAnimation, fadeIn:addAnimation}">
-        <h2 class="inline left">全天候</h2><img src="../../static/images/p2全天候.jpg" class="inline">
-        <div class="inline"><h3>日活：<span>1.2亿</span>&nbsp;&nbsp;&nbsp;&nbsp;月活：<span>1.5亿</span><br>阅图锁屏  隐身陪伴，触网第一入口</h3></div>
+        <h2 class="inline left">全天候</h2><img src="../../static/images/p2全天候.png" class="inline img1">
+        <div class="inline"><h3><span class="span1">日活：</span><span>1.2亿</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="span1">月活：</span><span>1.5亿</span><br>阅图锁屏  隐身陪伴，触网第一入口</h3></div>
         </div>
         <div class="div_img delay-2" :class="{animated:addAnimation, fadeIn:addAnimation}">
-        <h2 class="inline left time2">7:00</h2><img src="../../static/images/p2_7.jpg" class="inline">
-        <div class="inline"><h3>日活：<span>6550W</span>&nbsp;&nbsp;&nbsp;&nbsp;月活：<span>1.5亿</span><br>天气  起床看天气，穿衣带伞</h3></div>
+        <h2 class="inline left time2">7:00 </h2><img src="../../static/images/p2_7.jpg" class="inline">
+        <div class="inline"><h3><span class="span1">日活：</span><span>6550W</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="span1">月活：</span><span>1.5亿</span><br>天气  起床看天气，穿衣带伞</h3></div>
         </div><div class="div_img  delay-3" :class="{animated:addAnimation, fadeIn:addAnimation, slower :addAnimation}">
-        <h2 class="inline left time3">8:00</h2><img src="../../static/images/p2_8.jpg" class="inline">
-        <div class="inline"><h3>日活：<span>1600W</span>&nbsp;&nbsp;&nbsp;&nbsp;月活：<span>1.13亿</span><br>i音乐  晨跑，听音乐</h3></div>
+        <h2 class="inline left time3">8:00 </h2><img src="../../static/images/p2_8.png" class="inline">
+        <div class="inline"><h3><span class="span1">日活：</span><span>1600W</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="span1">月活：</span><span>1.13亿</span><br>i音乐  晨跑，听音乐</h3></div>
         </div>
 
         <div class="div_img delay-4" :class="{animated:addAnimation, fadeIn:addAnimation}">
-        <h2 class="inline left time4">9:00</h2><img src="../../static/images/p2_9.jpg" class="inline">
-        <div class="inline"><h3>日活：<span>8638W</span>&nbsp;&nbsp;&nbsp;&nbsp;月活：<span>2.3亿</span><br>浏览器  上班路上看新闻</h3></div>
+        <h2 class="inline left time4">9:00 </h2><img src="../../static/images/p2_9.png" class="inline">
+        <div class="inline"><h3><span class="span1">日活：</span><span>8638W</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="span1">月活：</span><span>2.3亿</span><br>浏览器  上班路上看新闻</h3></div>
         </div>
 
         <div class="div_img delay-5" :class="{animated:addAnimation, fadeIn:addAnimation}">
-        <h2 class="inline left time5">12:00</h2><img src="../../static/images/p2_12.jpg" class="inline">
-        <div class="inline"><h3>日活：<span>1988W</span>&nbsp;&nbsp;&nbsp;&nbsp;月活：<span>1.2亿</span><br>视频  午休轻松一刻</h3></div>
+        <h2 class="inline left time5">12:00</h2><img src="../../static/images/p2_12.png" class="inline">
+        <div class="inline"><h3><span class="span1">日活：</span><span>1988W</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="span1">月活：</span><span>1.2亿</span><br>视频  午休轻松一刻</h3></div>
         </div>
 
         <div class="div_img delay-6" :class="{animated:addAnimation, fadeIn:addAnimation}">
-        <h2 class="inline left time6">15:00</h2><img src="../../static/images/p2_15.jpg" class="inline">
-        <div class="inline"><h3>日活：<span>1165W</span>&nbsp;&nbsp;&nbsp;&nbsp;月活：<span>1.16亿</span><br>i主题  下午茶换个心情</h3></div>
+        <h2 class="inline left time6">15:00</h2><img src="../../static/images/p2_15.png" class="inline">
+        <div class="inline"><h3><span class="span1">日活：</span><span>1165W</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="span1">月活：</span><span>1.16亿</span><br>i主题  下午茶换个心情</h3></div>
         </div>
 
         <div class="div_img delay-7" :class="{animated:addAnimation, fadeIn:addAnimation}">
-        <h2 class="inline left time7">19:00</h2><img src="../../static/images/p2_19.jpg" class="inline">
-        <div class="inline"><h3>日活：<span>1129W</span>&nbsp;&nbsp;&nbsp;&nbsp;月活：<span>6656W</span><br>电子书  下班路上学习充电</h3></div>
+        <h2 class="inline left time7">19:00</h2><img src="../../static/images/p2_19.png" class="inline">
+        <div class="inline"><h3><span class="span1">日活：</span><span>1129W</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="span1">月活：</span><span>6656W</span><br>电子书  下班路上学习充电</h3></div>
         </div>
-            <!-- <img src="../../static/images/P3-7.jpg" class="delay-6 img" :class="{animated:addAnimation, fadeIn:addAnimation, slower :addAnimation}"> -->
-         
+          
       
 
     
@@ -82,11 +81,11 @@ export default {
         }
     },
     mounted() {
-        let cwth = document.body.clientWidth
-        if(cwth<=320){
-     
-            
-        }
+             let h = document.documentElement.clientHeight;
+            if(h>800 && h<1000) {
+                let el = document.getElementsByClassName("div_title")[1]        
+                el.style.marginTop = "3.3rem"
+            }
     }
 }
 </script>
@@ -144,6 +143,14 @@ export default {
             color:rgba(0,120,255,1);
             line-height:0.7467rem;
         }
+        .span1{
+            font-weight:bold;
+            color:#000000;
+            font-size:0.36rem;
+            font-family:FZLTCHJW--GB1-0;
+            font-weight:400;
+            
+        }
         .title {
             width: 5.3733rem;
             height: 0.8307rem;
@@ -162,7 +169,7 @@ export default {
             position: absolute;
             margin-top: 0rem;
             height: 2.6667rem;
-            margin-left:  2.4667rem;
+            margin-left:  2.6667rem;
             border-left: #0078FF dashed 0.0267rem;
         }
         .line2{
@@ -181,15 +188,15 @@ export default {
         }
         .div_img .left {           
                 margin-top: 0.52rem;
-                margin-left: 0.5467rem;
-                font-size:0.36rem;
+                margin-left: 0.4667rem;
+                font-size:0.4367rem;
                 font-family:Microsoft YaHei;
                 font-weight:400;
         }
          img{
                 position: relative;
                 width: 1.0667rem;
-                margin-left:  0.2933rem;
+                margin-left:  0.32rem;
                 margin-top: 0.1333rem;
          }
          .div_img .time2{margin-left:  0.9067rem;}
