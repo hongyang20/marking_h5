@@ -1,6 +1,6 @@
 <template>
 <div class="container">
-   <div class="div_title">
+   <div class="div_title9">
         <div class="blue inline"></div><h1 class="inline">优秀推广案例</h1>
    </div>
 
@@ -63,10 +63,13 @@ export default {
         }
     },
     mounted() {
-             let cwth = document.body.clientWidth
-        if(cwth<=320){
-            
-            }
+            let cwth = document.body.clientWidth
+            let cHeight = document.body.clientHeight
+     
+        if(cHeight>800 && cHeight<1000) {           
+            let arr = document.getElementsByClassName('div_title9')[0]            
+            arr.style.marginTop= "3.26rem"      
+        }
               
             
             
@@ -81,7 +84,7 @@ export default {
         background-size:cover;
         
         width: 100%;
-          .div_title{
+          .div_title9{
             margin-left: 0.5333rem;
             margin-top: 1.0667rem;         
             height: 0.6933rem;
@@ -93,7 +96,7 @@ export default {
             height: 100%;
             background-color: #0078FF
         }
-        .div_title h1{
+        .div_title9 h1{
             font-size:0.7467rem;
             font-family:FZLanTingHeiS-B-GB;
             font-weight:800;

@@ -35,10 +35,9 @@ var windowHeight = window.innerHeight;
 export default {
     name:'total',
     data(){
-        return {           
-            componentList:['componentOne','componentTwo','componentThree','componentFour','component5','component6',
-             'component7','component8','component9','component10','component11'],
-            index:0,
+        return {         
+            componentList:['componentOne','componentTwo','componentThree','componentFour','component5','component6','component7','component8','component9','component10','component11'],
+            index:0, // 起始页
             distance:0,//手指在页面滑动的距离
             nowZIndex:{
                 before:10,
