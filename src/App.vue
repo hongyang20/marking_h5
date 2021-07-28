@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <i class="icon "></i>
-    <audio src="http://183.237.68.98:9000/static/images/bg.mp3" autoplay loop preload></audio>
+    <audio src="https://ht.qhjlhc.com/static/images/bg.mp3" autoplay loop preload></audio>
     <router-view></router-view>
   </div>
 </template>

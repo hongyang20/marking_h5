@@ -3,7 +3,7 @@
 <div class="div_title">
         <div class="blue inline"></div> <h1 class="inline">效果提升计划</h1>
         <h1 class="h2">智能价格管理，支持更多后向目标深度转化</h1>
-        <div class="ipad"><img src="http://183.237.68.98:9000/static/images/P5.jpg"></div>
+        <div class="ipad"><img src="https://ht.qhjlhc.com/static/images/P5.jpg"></div>
         <div class="ocpc" :class="{animated:addAnimation,bounceInRight:addAnimation}">
         <div><img src="../../static/images/OCPC.png"></div>
         <ul>

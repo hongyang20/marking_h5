@@ -6,36 +6,36 @@
          <div class="line4 delay-5" :class="{animated:addAnimation, fadeIn:addAnimation, slower :addAnimation}"></div>
 
         <div class="div_img delay-1" :class="{animated:addAnimation, fadeIn:addAnimation}">
-        <h2 class="inline left first_left">&nbsp;22:00</h2><img src="http://183.237.68.98:9000/static/images/p4_1.png" class="inline">
+        <h2 class="inline left first_left">&nbsp;22:00</h2><img src="https://ht.qhjlhc.com/static/images/p4_1.png" class="inline">
         <div class="inline"><h3><span class="span1">日活：</span><span>3965W</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="span1">月活：</span><span>1.26亿</span><br>日历  睡觉看日历，备忘事项</h3></div>
         </div>
 
         <div class="div_img2 delay-2" :class="{animated:addAnimation, fadeIn:addAnimation}">
-        <h2 class="inline left">全天候</h2><img src="http://183.237.68.98:9000/static/images/p4_2.png" class="inline">
+        <h2 class="inline left">全天候</h2><img src="https://ht.qhjlhc.com/static/images/p4_2.png" class="inline">
         <div class="inline"><h3><span class="span1">日活：</span><span>4000W</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="span1">日分发：</span><span>6.4亿</span><br>应用商店  原生应用分发场景</h3></div>
         </div>
 
         <div class="div_img3 delay-3" :class="{animated:addAnimation, fadeIn:addAnimation}">
-        <h2 class="inline left">全天候</h2><img src="http://183.237.68.98:9000/static/images/p4_3.png" class="inline">
+        <h2 class="inline left">全天候</h2><img src="https://ht.qhjlhc.com/static/images/p4_3.png" class="inline">
         <div class="inline"><h3><span class="span1">日活：</span><span>4800W</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="span1">媒体量：</span><span>7100</span><br>广告联盟  接入多元化合作媒体</h3></div>
         </div>
 
         <div class="div_img4 delay-4" :class="{animated:addAnimation, fadeIn:addAnimation}">
-        <h2 class="inline left">全天候</h2><img src="http://183.237.68.98:9000/static/images/p4_4.png" class="inline">
+        <h2 class="inline left">全天候</h2><img src="https://ht.qhjlhc.com/static/images/p4_4.png" class="inline">
         <div class="inline"><h3><span class="span1">日活：</span><span>4296W</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="span1">月活：</span><span>1.1亿</span><br>Jovi智慧场景  战略级资源，新营销生态</h3></div>
         </div>
 
         <div class="div_img5 delay-5" :class="{animated:addAnimation, fadeIn:addAnimation}">
-        <h2 class="inline left">全天候</h2><img src="http://183.237.68.98:9000/static/images/p4_5.png" class="inline">
+        <h2 class="inline left">全天候</h2><img src="https://ht.qhjlhc.com/static/images/p4_5.png" class="inline">
         <div class="inline"><h3><span class="span1">开屏广告</span><span>8大应用</span><br>开屏联投  抢占核心视觉，生态全面触达</h3></div>
         </div>
 
          <div class="div_img6 delay-6" :class="{animated:addAnimation, fadeIn:addAnimation}">
-        <h2 class="inline left">全天候</h2><img src="http://183.237.68.98:9000/static/images/p4_6.png" class="inline">
+        <h2 class="inline left">全天候</h2><img src="https://ht.qhjlhc.com/static/images/p4_6.png" class="inline">
         <div class="inline"><h3><span class="span1">在网用户</span><span>2.6亿+</span><br>Vpush  到达率高达99%</h3></div>
         </div>
 
-        <div class="phone_border" :class="{animated:addAnimation, bounceInRight:addAnimation, slower :addAnimation}"><img src="http://183.237.68.98:9000/static/images/p4_7.png" alt=""></div>
+        <div class="phone_border" :class="{animated:addAnimation, bounceInRight:addAnimation, slower :addAnimation}"><img src="https://ht.qhjlhc.com/static/images/p4_7.png" alt=""></div>
     </div>
 </template>
 <script>

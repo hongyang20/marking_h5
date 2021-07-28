@@ -8,7 +8,7 @@
         <div class="xu"></div>
         <h1 class="h4" :class="{animated:addAnimation, fadeInLeft:addAnimation}">投放遭遇瓶颈，获客成本过高 广告效果差</h1>
         <h1 class="h5">应用商店成本可控，效果可见，让广告主不花一分冤枉钱。信息流广告原生展现，定向精准帮您挖掘优质潜在用户</h1>
-        <div class="xudiv"><img src="http://183.237.68.98:9000/static/images/p2.jpg"/></div>
+        <div class="xudiv"><img src="https://ht.qhjlhc.com/static/images/p2.jpg"/></div>
     </div>
 </template>
 <script>

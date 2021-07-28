@@ -72,7 +72,7 @@ export default {
                 // 百度地图API功能             
                 var sContent =
                 "<h4 style='margin:0 0 5px 0;padding:0.2em 0'>前海聚力合创科技有限公司</h4>" + 
-                "<img style='float:right;margin:4px' id='imgDemo' src='http://183.237.68.98:9000/static/images/p10_3.png' width='139' height='104' title='前海聚力合创科技有限公司'/>" + 
+                "<img style='float:right;margin:4px' id='imgDemo' src='https://ht.qhjlhc.com/static/images/p10_3.png' width='139' height='104' title='前海聚力合创科技有限公司'/>" + 
                 "<p style='margin:0;line-height:1.5;font-size:13px;'>地址：深圳市南山区侨香路4080号侨城坊7栋22楼</p>" + 
                 "</div>";
                 var map = new BMap.Map('allmap',{enableMapClick:true});
@@ -104,9 +104,9 @@ export default {
         let height = document.documentElement.clientHeight; //获取当前可视区域的高度存到hrt变量
         document.getElementsByTagName('body')[0].style.height=height+'px'
         
-        setTimeout(() => {
-        this.initMap() // 创建和初始化地图
-        }, 1000)
+        // setTimeout(() => {
+        // this.initMap() // 创建和初始化地图
+        // }, 1000)
     }
 }
 </script>
@@ -161,7 +161,7 @@ export default {
             font-size:0.6667rem;
             width: 4.08rem;
             height: 0.9467rem;
-            font-family:FZLanTingHeiS-R-GB;
+            font-family: FZLanTingHeiS-R-GB;
             font-weight:bold;
             text-align: center;
             line-height: 0.9467rem;
@@ -178,7 +178,8 @@ export default {
             height: 5.48rem;
             width:89%;
             margin: 0.6667rem 0 0 0.5333rem;
-            overflow: hidden;}
+            overflow: hidden;
+        }
 
       
     }

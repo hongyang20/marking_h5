@@ -4,7 +4,7 @@
         <div class="blue inline"></div><h1 class="inline">优秀推广案例</h1>
    </div>
    <div class="topBox">
-    <div class="img"><img src="http://183.237.68.98:9000/static/images/p8_1.jpg"></div>
+    <div class="img"><img src="https://ht.qhjlhc.com/static/images/p8_1.jpg"></div>
     <div class="xu"></div>
     <div class="b50" :class="{animated:addAnimation, bounceInRight:addAnimation}">
         <h1><span>50%</span>总消耗提升</h1>
@@ -17,7 +17,7 @@
         <!-- 银色虚线 -->
         <div class="dash"></div>
     <div class="middleBox">
-        <div class="img"><img src="http://183.237.68.98:9000/static/images/p8_2.jpg"></div>
+        <div class="img"><img src="https://ht.qhjlhc.com/static/images/p8_2.jpg"></div>
         <div class="xu"></div>
         <div class="b50" :class="{animated:addAnimation, bounceInRight:addAnimation}">
             <h1><span>100%</span>消耗提升</h1>
@@ -29,7 +29,7 @@
     </div>
     <div class="dash dash2"></div>
     <div class="bottomBox">
-        <div class="img"><img src="http://183.237.68.98:9000/static/images/p8_3.png"></div>
+        <div class="img"><img src="https://ht.qhjlhc.com/static/images/p8_3.png"></div>
         <div class="xu"></div>
         <div class="b50" :class="{animated:addAnimation, bounceInRight:addAnimation}">
             <h1><span>150%</span>激活量提升</h1>

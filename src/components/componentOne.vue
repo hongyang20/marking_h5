@@ -38,7 +38,7 @@ export default {
 </script>
 <style lang="scss" scoped>
     .container{
-        background-image: url('http://183.237.68.98:9000/static/images/P1.jpg');
+        background-image: url('https://ht.qhjlhc.com/static/images/P1.jpg');
            background-repeat:no-repeat;
                 background-size:100% 100%;
                 -moz-background-size:100% 100%;

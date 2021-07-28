@@ -13,7 +13,7 @@
         </div>
       
         <div class="item2">
-            <div class= "div1"><img :class="{animated:addAnimation, pulse:addAnimation}" src="http://183.237.68.98:9000/static/images/p10_3.png"></div>
+            <div class= "div1"><img :class="{animated:addAnimation, pulse:addAnimation}" src="https://ht.qhjlhc.com/static/images/p10_3.png"></div>
             <div class= "div2"> <h1>地缘优势</h1>
             <span>深圳总部，与vivo媒体联系更方便高效，北京分部，南北联动服务</span>
             </div>
